@@ -10,7 +10,7 @@ Fico feliz que esteja interessado em ver meus projetos e espero que possa ajudá
 Eu sou o Ramon, tenho 24 anos e faço faculdade de Análise e Desenvolvimento de Sistemas. Atualmente, sigo estudando conteúdos voltados à ciência de dados. Por enquanto, sou novo nessa área e tenho muito o que aprender.
 
 
-## :gear: Como funciona?
+## ⚙️ Como funciona?
 
 Abaixo, você verá os tópicos dos meus projetos e resumos acerca deles. Qualquer sugestão, você pode me achar nas seguintes redes:
 
