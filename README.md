@@ -1,7 +1,7 @@
 
 # Meu Portifólio de Data Science com Python
 
-Seja bem-vido ao meu repositório! Aqui, você vai encontrar meus projetos acadêmicos e pessoais sobre análise de dados e ciência de dados. O projetos são feitos apenas com o **Python**  e suas demais tecnologias, como: **Numpy**, **Pandas**, **Matplotlib**, etc... 
+Seja bem-vindo ao meu repositório! Aqui, você vai encontrar meus projetos acadêmicos e pessoais sobre análise de dados e ciência de dados. O projetos são feitos apenas com o **Python**  e suas demais tecnologias, como: **Numpy**, **Pandas**, **Matplotlib**, etc... 
 
 Fico feliz que esteja interessado em ver meus projetos e espero que possa ajudá-lo(a) de alguma forma.
 
